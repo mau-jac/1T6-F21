@@ -28,9 +28,9 @@ You can have your own local copy of these notes:
 
 1. Clone the GitHub repository listed above
 
-2. From the command-line, navigate to the repository folder named ***1T6-F20*** 
+2. From the command-line, navigate to the repository folder named ***1T6-F21*** 
 
-3. Start a simple python web-server inside the ***1T6-F20*** folder (make sure python3 is installed)
+3. Start a simple python web-server inside the ***1T6-F21*** folder (make sure python3 is installed)
 
    `python -m http.server`
 
