@@ -1,6 +1,6 @@
 # Basic Terminology & Information Cycle
 
-## **What is a computer?**
+## What is a computer?
 
 It's important to expend our understand of what a computer is.
 
@@ -18,9 +18,9 @@ Based on this definition, can you give me examples of computers **other than** t
 
 
 
-### **Hardware vs. software**
+### Hardware vs. software
 
-![hardware_software](assets/hardware_software.jpg)
+![icons of common software vs icons of screen and keyboard](assets/hardware_vs_software.png)
 
 
 
@@ -82,7 +82,7 @@ There are many ways to find this information. Some of the simplest ones are:
 
 4. Note the processor type and amount of RAM
 
-   ![thisPCspecs](assets/thisPCspecs.gif)
+![illustration of selecting "This PC" properties ](assets/this_PC_properties.png)
 
 
 
@@ -95,8 +95,7 @@ For the amount of long-term storage space (assuming you only have one storage di
 3. Select "Properties"
 4. Note the capacity of your disk
 
-![storageSpecs](assets/storageSpecs.gif)
-
+![animation: selecting drive properties](assets/drive_properties.png)
 
 
 ### Resource Load & Availability
@@ -154,7 +153,7 @@ Additionally, the output of one process might be the input of another process or
 
 
 
-![image-20200823222539971](assets/image-20200823222539971.png)
+![diagram connecting input, process, output, storage and input](assets/info-cycle-diagram.png)
 
 
 
@@ -170,7 +169,7 @@ Additionally, the output of one process might be the input of another process or
 
 
 
-![image-20200823223344490](assets/image-20200823223344490.png)
+![diagram of input cycle for mouse, pc, monitor and eye](assets/mouse-input-cycle.png)
 
 
 
@@ -202,7 +201,7 @@ Adding this new model to the information cycle we get the following picture:
 
 
 
-![image-20200824091558173](assets/image-20200824091558173.png)
+![Info cycle diagram showing CU, ALU and RAM inside the "process" block](assets/audio-mp3-cu-alu-ram.png)
 
 
 
@@ -218,9 +217,8 @@ Adding this new model to the information cycle we get the following picture:
 
 Let's take a look at the Intel Core i5 750 released in 2008. It's a quad core processor clocked at 2.66GHz.
 
+![Intel Core i5-750 - Asus MIIIF by GhOstXFX on DeviantArt](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2d0ce74b-e9d7-4652-8f7d-13848414bf34/d2qtyai-7a08af62-dbdf-4790-910d-885fb4194eb6.jpg/v1/fill/w_1024,h_683,q_75,strp/intel_core_i5_750___asus_miiif_by_ghostxfx_d2qtyai-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjgzIiwicGF0aCI6IlwvZlwvMmQwY2U3NGItZTlkNy00NjUyLThmN2QtMTM4NDg0MTRiZjM0XC9kMnF0eWFpLTdhMDhhZjYyLWRiZGYtNDc5MC05MTBkLTg4NWZiNDE5NGViNi5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.sTPs0SHGpa0BEo1vAKCykbZY_hLGiQ_HgI1vlwkYmXw ':size=600')
 
-
-![Intel Core i5-750 - Asus MIIIF by GhOstXFX on DeviantArt](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.N6vZwouOFlAqCmaMqa81ygHaE8%26pid%3DApi&f=1)
 
 <p align="center"><a href="https://www.deviantart.com/ghostxfx/art/Intel-Core-i5-750-Asus-MIIIF-165999834"><em>Intel Core i5-750 - Asus MIIIF by GhOstXFX</em></a></p>
 
