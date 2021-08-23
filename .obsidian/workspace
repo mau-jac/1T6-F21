@@ -1,0 +1,108 @@
+{
+  "main": {
+    "id": "e18ef4b2730114cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "4823154f9f66ccdc",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "wk1/information_cycle.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "3d73ca83a3c09bba",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "wk1/information_cycle.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fe3f4b11527d63d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1096cd59be35070",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5c33262bf9c2c9b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9bc9fb9c73e098f5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4eb43cc1bea9230d",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb54c4fca6e54024",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94191cdfda691b21",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "wk1/information_cycle.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4823154f9f66ccdc",
+  "lastOpenFiles": [
+    "wk1/information_cycle.md",
+    "wk1/evolution_computers.md",
+    "wk1/assets/switch_magnet.png",
+    "wk1/evolution_computers.assets/new image name.png",
+    "Pasted image 20210821140321.png.md"
+  ]
+}
