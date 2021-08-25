@@ -142,7 +142,7 @@ The information cycle is how the computer transforms raw data into useful inform
 
 
 
-As programmers we can only create a pre-defined process that will:
+As programmers we can only create a pre-defined **instruction** that will:
 
 - take an input; and
 - generate an output
