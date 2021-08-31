@@ -19,15 +19,13 @@ Let's focus on two types of software: **the operating system and application sof
 
 <br>
 
-[![Modern Mobile Operating Systems](https://cloud.addictivetips.com/wp-content/uploads/2011/05/Modern-Mobile-Operating-Systems.jpg)
-
-<p align="center"><a href="https://www.addictivetips.com/mobile/an-introduction-to-modern-mobile-operating-systems/"><em>Examples of Mobile Operating Systems</em></a></p>
-
-<br>
+![Comparison of operating systems by name, developer and platform: windows, macOS, iOS, Android and Linux](assets/image-20210831091733286.png)<br>
 
 **Application Software**
 
 > Programs that run and execute instructions inside the operating system.
+>
+> Examples: Microsoft office, browsers, games
 
 <br>
 
@@ -92,7 +90,7 @@ It is the Kernel that manages requests to and from Input and Output devices (mou
 
 <br>
 
-Below is a simplified diagram of the operating system indicating the relationship between main software and hardware components:
+Below is a simplified diagram of the operating system showing the relationship between main software and hardware components:
 
 <br>
 
@@ -193,7 +191,11 @@ By default File Explorer hides the file extensions.
 
 Microsoft choose to do this to simplify the user interface and not overwhelm new users.
 
-**If you would like to see the file extensions directly on File Explorer you have to enable it**
+
+
+!> If you would like to see the file extensions directly on File Explorer you have to enable it
+
+
 
 Enabling file extensions is not necessary but it will allow you to better understand what kinds of files you are dealing with "under the hood".
 
@@ -287,9 +289,9 @@ A new zipped folder with the same name is created in the same location.  To rena
 
 #### ⚠ Using Zipped "Folders"
 
-> The contents inside a zipped file are READ-ONLY!
->
-> You will not be able to modify them without extracting first.
+!> The contents inside a zipped file are READ-ONLY!
+
+!> You will not be able to modify them without extracting first.
 
 <br>
 
@@ -297,13 +299,15 @@ In windows you have the ability to double click onto a zipped file and File Expl
 
 <br> This can be very misleading and stressful when working on assignments or tests.
 
-**Please get into the habit of always extracting a compressed file before working on it.**
+?> Please get into the habit of always extracting a compressed file before working on it.
 
 <br>
 
 ## Exercise - File Compression
 
-In Moodle, you will find  **Practice Assignment** (not worth any marks) under Week 2. Please refer to that activity in order to complete the following steps:
+In Moodle, you will find  **Wk2 - Compression Practice** under Week 2. **This assignment is worth 0.5% of your assignments grade**.
+
+Follow these steps:
 
 <br>
 
@@ -311,9 +315,11 @@ In Moodle, you will find  **Practice Assignment** (not worth any marks) under We
 
 2. Decompress it in a location of your choice
 
-3. Make note of the file size of each file. You will need this information in step 9.
+3. Create a `.txt` file named `compression_size`.
 
-4. Organize the files into folders:
+4. Inside `compression_size.txt` take note of the file size of each file. You will need this information in step 9.
+
+5. Organize the files into folders:
 
    - Create a main folder named ***Practice1***. This will be the top level directory for the next steps.
 
@@ -325,22 +331,23 @@ In Moodle, you will find  **Practice Assignment** (not worth any marks) under We
 
    <br>
 
-5. Place files in their respective folders, according to their file type.
+6. Place files in their respective folders, according to their file type.
 
-6. Compress each file individually.
+7. Compress each file individually.
 
-7. Take note of the file size after compression. You will need this in step 9.
+8. Take note of the file size after compression. You will need this in step 10.
 
-8. Remove any uncompressed files.
+9. Remove any uncompressed files.
 
-9. What files have the the best and worse file compression ?
+10. What files have the the best and worse file compression ?
 
-   - Use the file size to calculate the compression ratio. You can use ratio = 1- final / initial.
+   - Use the file size to calculate the compression ratio.
+   - Compression ratio = 1- ( final size / initial size )
 
-10. Write down the compression ratios for each file in a file of  your choice (ex. a spreadsheet, Word file, txt file, picture, etc.)
+11. Inside `compression_ratio.txt` write down the compression ratios for each file that you compressed.
 
-11. Include this document in the top level folder for this activity (Practice_1).
+12. Include this document in the top level folder for this activity (*Practice_1*).
 
-12. Compress the top level directory *Practice 1.*
+13. Compress the top level directory *Practice 1.*
 
-13. Upload the final compressed folder to Moodle under **Practice Assignment**.
+14. Upload the final compressed folder to Moodle under **Wk2 - Compression Practice**.
