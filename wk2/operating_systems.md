@@ -316,37 +316,30 @@ Follow these steps:
 
 3. Create a `.txt` file named `compression_size`.
 
-4. Inside `compression_size.txt` take note of the file size of each file. You will need this information in step 9.
+4. Inside `compression_size.txt` take note of the size of each file. You will need this information for a later step.
 
-5. Organize the files into folders:
+5. Compress **each file indivudually**.
 
-   - Create a main folder named ***Practice1***. This will be the top level directory for the next steps.
+6. Take note of the file size after compression. You will need this for a later step.
 
-   - Create the file structure shown below (only directories are shown).
+7. Create a main folder named ***Practice1***. This will be the top level directory for the next steps.
 
-     <br>
+8. Create the file structure shown below (only directories are shown).
 
      ![File structure for exercise](assets/image-20200902075649388.png)
 
-   <br>
+9. Place the **compressed files** in their respective folders, according to their original file type (before compression).
 
-6. Place files in their respective folders, according to their file type.
+10. Delete any **uncompressed files**.
 
-7. Compress each file individually.
+11.  Inside `compression_size.txt` write down the compression ratios for each file that you compressed.
 
-8. Take note of the file size after compression. You will need this in step 10.
+   - Compression ratio = 1 - ( final size / initial size )
 
-9. Remove any uncompressed files.
+12. Inside `compression_size.txt`, write down which files have the the best and worse file compression.
 
-10. What files have the the best and worse file compression ?
+13. Include `compression_size.txt` in the top level directory of this activity.
 
-   - Use the file size to calculate the compression ratio.
-   - Compression ratio = 1- ( final size / initial size )
+14. Compress the top level directory *Practice 1.*
 
-11. Inside `compression_size.txt` write down the compression ratios for each file that you compressed.
-
-12. Include this document in the top level folder for this activity (*Practice_1*).
-
-13. Compress the top level directory *Practice 1.*
-
-14. Upload the final compressed folder to Moodle under **Wk2 - Compression Practice**.
+15. Upload the final compressed folder to Moodle under **Wk2 - Compression Practice**.
