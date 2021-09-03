@@ -303,13 +303,12 @@ In windows you have the ability to double click onto a zipped file and File Expl
 
 <br>
 
-## Exercise - File Compression
+## Lab: File Compression
 
-In Moodle, you will find  **Wk2 - Compression Practice** under Week 2. **This assignment is worth 0.5% of your assignments grade**.
+In Moodle, you will find  **Wk2 - Compression Practice** under Week 2. **This assignment is worth 0.5% of your lab exercises grade**.
 
 Follow these steps:
 
-<br>
 
 1. Download the file: ***File Compression***
 
