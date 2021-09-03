@@ -7,6 +7,7 @@
 
 **Week 2**
 - [Operating Systems](wk2/operating_systems.md)
+- [Intro to MS Word](wk2/intro-word.md)
 
 <!-- **Week 15**
 - [Feedback in Teams](wk15/feedback.md) -->
