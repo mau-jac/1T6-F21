@@ -76,4 +76,4 @@ In Moodle, download the file *What is a kanban board.docx* from **Lab: Styles & 
 
 7. Update the table of contents.
 
-8. Upload your final document to Moodle under **Lab: Styles & Tables**
+8. Upload your final .docx document to Moodle under **Lab: Styles & Tables**

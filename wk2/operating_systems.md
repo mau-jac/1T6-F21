@@ -305,7 +305,7 @@ In windows you have the ability to double click onto a zipped file and File Expl
 
 ## Lab: File Compression
 
-In Moodle, you will find  **Wk2 - Compression Practice** under Week 2. **This assignment is worth 0.5% of your lab exercises grade**.
+In Moodle, you will find  **Lab: File Compression** under Week 2. **This assignment is worth 0.5% of your lab exercises grade**.
 
 Follow these steps:
 
