@@ -343,7 +343,7 @@ Follow these steps:
    - Use the file size to calculate the compression ratio.
    - Compression ratio = 1- ( final size / initial size )
 
-11. Inside `compression_ratio.txt` write down the compression ratios for each file that you compressed.
+11. Inside `compression_size.txt` write down the compression ratios for each file that you compressed.
 
 12. Include this document in the top level folder for this activity (*Practice_1*).
 
