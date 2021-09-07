@@ -91,7 +91,7 @@ Word can also display hidden formatting symbols such as spaces (![space symbol](
 
 ## Headers and Footers
 
-> 📖 For this section of the notes please refer to the following resource: ':class=inline-img'
+> 📖 For this section of the notes please refer to the following resource:
 > 
 > [Word: Headers and Footers ](https://www.youtube.com/watch?v=lNdjuIYuB3o&t=149s)
 
@@ -115,7 +115,7 @@ When your document's header and footer are unlocked, the **Design** tab will app
 
 <br>
 
-## Grammar & spelling
+## Grammar & Spelling
 
 Microsoft Editor analyzes your document and offers suggestions for spelling, grammar, and stylistic issues. To use Editor, on the **Home** tab choose **Editor**.
 
@@ -146,7 +146,7 @@ Contains different **predefined styles** that make image formatting even easier.
 
 <br>
 
-## Inserting an Excel chart`
+## Inserting and Excel Chart
 
 * The simplest way to insert a chart from an Excel spreadsheet into your Word document is to use the copy and paste commands.
 
@@ -200,5 +200,9 @@ In Moodle, download the compressed folder `Formatting-document.zip`  from **Lab:
 4. Insert "Fall 2021" as the page footer.
 5. Insert page numbers in the top right of the pages.
 6. Insert the chart from *video-salaries.xlsx* anywhere inside your Word document but make sure the data is linked.
-   * Change a value in your Excel file and update the chart in the Word document.
+7. In Excel, change the Videographer salary value to 90 and update the chart in the Word document.
+8. Compress the `.docx` file and `video-salaries.xlsx` into a single zip.
+9. Upload your final `.zip` file to Moodle under the same lab.
+
+
 
