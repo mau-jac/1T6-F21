@@ -1,13 +1,16 @@
 **Home**
 - [About](/)
 
-**Week 1**
-- [Information Cycle](wk1/information_cycle.md)
-- [Hardware Evolution](wk1/evolution_computers.md)
+**Week 3**
+- [Tabs, Foot-Head, Pg no, Images & Spelling](wk3/tab-foot-head-pg-images-review.md)
 
 **Week 2**
 - [Operating Systems](wk2/operating_systems.md)
 - [Intro to MS Word](wk2/intro-word.md)
+
+**Week 1**
+- [Information Cycle](wk1/information_cycle.md)
+- [Hardware Evolution](wk1/evolution_computers.md)
 
 <!-- **Week 15**
 - [Feedback in Teams](wk15/feedback.md) -->
