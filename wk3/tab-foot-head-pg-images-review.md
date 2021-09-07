@@ -20,7 +20,7 @@ A quick way to indent is to use the **Tab** key. This will create a first-line i
 
 Word provides **indent markers** that allow you to indent paragraphs to the location you want.
 
-![](assets/indent-markers.png)
+![Indent markers at the left of the ruler](assets/indent-markers.png)
 
 
 - **First-line indent marker** ![first-line indent](https://media.gcflearnfree.org/content/568c17f98d7fa91e7c8d89a9_01_05_2016/tabs_inline_first.png ':class=inline-img') adjusts the first-line indent
