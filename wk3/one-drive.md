@@ -28,11 +28,6 @@
 ![one drive options from the windows task bar](assets/onedrive-settings.png)
 
 <br>
-
-
-5.  Create folder **1B4** in the OneDrive folder location.
-    
-6.  **1B4** should appear on OneDrive now.
     
 
 ## Step 2: File Status
@@ -40,7 +35,7 @@
 [![](assets/sync-on-demand.png)](https://www.microsoft.com/en-us/videoplayer/embed/RE1FTHY?pid=ocpVideo0-innerdiv-oneplayer&postJsllMsg=true&maskLevel=20&market=en-us)
 
 
-Create 3 files (excel, word, PowerPoint) in **1B4** folder and give them 3 different statuses.
+When using File Exploerer to look at files and folders inside OneDrive, you can see their sync status.
 
 ![one drive file status in File Explorer](assets/onedrive-file-status.png)
 
@@ -52,9 +47,9 @@ Create 3 files (excel, word, PowerPoint) in **1B4** folder and give them 3 diffe
 
 > When you right click on 1B4 folder in file explorer, notice that you have 5 new actions in the context window (Share, View online, View history, Always keep on this device, and Free up space)
 
-1.  Right click on **1B4** folder, choose Share and explore the options.
+1.  To share a folder or a file with someone, Right click on the item and choose "Share".
     
-2.  Choose Anyone with the link, give editing permissions, and set expiration date 25/01/2021.
+2.  For example, you can choose "Anyone with the link", give editing permissions, and set expiration date.
     
 
 ### Step 4: Space
