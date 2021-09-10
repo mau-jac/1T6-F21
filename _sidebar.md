@@ -4,7 +4,7 @@
 **Week 3**
 - [Tabs, Foot-Head, Pg no, Images & Spelling](wk3/tab-foot-head-pg-images-review.md)
 - [One Drive](wk3/one-drive.md)
-- [Collaborative Edirint](wk3/collaborative-editing.md)
+- [Collaborative Editing](wk3/collaborative-editing.md)
 
 **Week 2**
 - [Operating Systems](wk2/operating_systems.md)
