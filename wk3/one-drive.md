@@ -1,4 +1,4 @@
-## Sync files with OneDrive
+# Sync files with OneDrive
 
 ## Objectives
 
