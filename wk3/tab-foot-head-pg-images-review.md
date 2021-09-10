@@ -148,21 +148,22 @@ Contains different **predefined styles** that make image formatting even easier.
 
 ## Inserting and Excel Chart
 
-* The simplest way to insert a chart from an Excel spreadsheet into your Word document is to use the copy and paste commands.
+1. Open Excel and copy your chart to the clipboard (regular <kbd>Ctrl</kbd> + <kbd>C</kbd>)
+2. Open Word and past your chart (regular <kbd>Ctrl</kbd> + <kbd>V</kbd>)
+3. Immediately after pasting, locate the momentary "Paste menu" at the bottom right of your newly parted chart and select **Use Destination Theme & Link Data**
+
+
+![](assets/word-paste-special-chart.png)
+
+### Modifying the chart in Word
 
 * You can make changes to the chart in Word.
   * Go to **Chart Design** or **Chart Tools Design** > **Data** > **Edit Data** and choose one of the following:
     - Choose **Edit Data** to edit the chart in Word.
-      * Use any of the four buttons that appear when you select the chart.
-        1. **Layout Options**
-           Choose how your object interacts with the text around it.
-        2. **Chart Elements**
-           Add, remove, or change chart elements such as the title, legend, gridlines, and data labels.
-        3. **Chart Styles**
-           Set a style and color scheme for your chart.
-        4. **Chart Filters**
-           Edit what data points and names are visible in your chart.
     - Choose **Edit Data in Excel**.
+
+![Chart Design ribbon menu in Word](assets/word-chart-design.png)
+
 * If you change the data in Excel, you can automatically refresh the chart in Word. 
   * Go to **Chart Design** or **Chart Tools Design** > **Data** > **Refresh Data**.
 
