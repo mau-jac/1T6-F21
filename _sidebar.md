@@ -1,6 +1,9 @@
 **Home**
 - [About](/)
 
+**Week 4**
+- [Footnotes & Bibliography](wk4/footnotes_bibliography.md)
+
 **Week 3**
 - [Tabs, Foot-Head, Pg no, Images & Spelling](wk3/tab-foot-head-pg-images-review.md)
 - [One Drive](wk3/one-drive.md)
@@ -32,7 +35,6 @@
 
 <!-- **Week 11**
 - [Word Elements](wk11/manipulating_elements.md)
-- [Footnotes & Bibliography](wk11/footnotes_bibliography.md)
 - [Comments & Changes](wk11/comments_changes.md) -->
 
 <!-- **Week 10**
