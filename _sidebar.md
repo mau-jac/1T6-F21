@@ -2,7 +2,7 @@
 - [About](/)
 
 **Week 4**
-- [Footnotes & Bibliography](wk4/footnotes_bibliography.md)
+- [Footnotes & Bibliography](wk4/footnotes-bibliography.md)
 
 **Week 3**
 - [Tabs, Foot-Head, Pg no, Images & Spelling](wk3/tab-foot-head-pg-images-review.md)
