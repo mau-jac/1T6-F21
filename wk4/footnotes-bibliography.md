@@ -22,7 +22,22 @@ Once added, a number or symbol on the footnote or endnote matches up with a refe
         
 3. Enter what you want in the footnote or endnote.
         
-4. Return to your place in the document by double-clicking the number or symbol at the beginning of the note.      
+4. Return to your place in the document by double-clicking the number or symbol at the beginning of the note.
+
+### Mutliple references to the same footnote
+
+Sometime you would like multiple locations in your text to refer to the same footnote.
+
+Follow these steps:
+
+1. Insert the first footnote as specified above.
+2. Place your cursor where you would like the second footnote to appear.
+3. Select **Cross-references** from the **References ribbon menu**.
+4. Choose *Reference type: footnote* and *Insert reference to: Footnote number (formatted)*
+5. Select your previous footnote and click on *Insert*.
+
+![Cross reference footnote menu](assets/cross-footnote.png)
+
 
 ## Citations & Bibliography
 
