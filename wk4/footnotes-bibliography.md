@@ -96,7 +96,7 @@ For an excellent written resource with step by step instructions, see:
 
 > [Microsoft Office Word: Tools for your Research Paper](https://apps.kennesaw.edu/files/pr_app_uni_cdoc/doc/Word_2016_PC_Tools_for_Your_Research_Paper.pdf) by Kennesaw State University
 
-### For mac users
+### For mac users 🍎
 
 -   [Add footnotes and endnotes in Word on Mac and iOS](https://support.microsoft.com/en-us/office/add-footnotes-and-endnotes-in-word-on-mac-and-ios-a58d1685-94f6-43f5-ba26-aa15aa62c6ed)
     
@@ -139,7 +139,7 @@ The following two sources are highly recommended:
 2.  [Google Scholar](https://scholar.google.com/schhp?hl=en&as_sdt=0,5)
     
 
-## Lab: Citations & Bibliography
+<!-- ## Lab: Citations & Bibliography
 
 **This lab is worth 0.5% of your lab exercises grade**.
 
@@ -195,4 +195,4 @@ Follow the steps below:
             
 2.  Add all references using the _Citation_ feature.
     
-3.  Insert an automatic Bibliography at the end of the document.
+3.  Insert an automatic Bibliography at the end of the document. -->
