@@ -163,14 +163,14 @@ Follow the steps below:
         
 3.  Apply all necessary Styles so that it is similar to `Internet of Things.pdf` .
     
-    -   Do not worry about the _References_ section as we will automatically create it later.
+    -   Do not worry about the _References_ section as you will automatically create it later.
         
 4.  Add any necessary footnotes
     
 
 **Cover Page**
 
-1.  Add a page break after the Abstract section.
+1.  Add a page break immediately below the Abstract section.
     
     -   The title author names and Abstract should be on the first page.
         
