@@ -6,7 +6,7 @@ There are many examples of spreadsheet software such as:
 
 - Microsoft **Excel**
 - Google **Sheets**
-- Apple **Numbers**s
+- Apple **Numbers**
 - LibreOffice **Calc**
 
 ## New or need a refresher?
