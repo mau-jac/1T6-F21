@@ -4,6 +4,7 @@
 **Week 4**
 - [Footnotes & Bibliography](wk4/footnotes-bibliography.md)
 - [Presentation Tools](wk4/presentation-software.md)
+- [Intro to Excel](wk4/intro-excel.md)
 
 **Week 3**
 - [Tabs, Foot-Head, Pg no, Images & Spelling](wk3/tab-foot-head-pg-images-review.md)
