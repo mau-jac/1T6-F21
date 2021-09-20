@@ -1,6 +1,9 @@
 **Home**
 - [About](/)
 
+**Week 5**
+- [Excel Functions](wk5/excel_functions.md)
+
 **Week 4**
 - [Footnotes & Bibliography](wk4/footnotes-bibliography.md)
 - [Presentation Tools](wk4/presentation-software.md)
