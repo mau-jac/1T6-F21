@@ -151,7 +151,7 @@ To match any cell containing the text "Oak" we can perform the following `COUNTI
 
 ## Lab 5: Excel Functions
 
-**This assignment is worth 0.5% of your lab exercises grade**.
+**This lab is worth 0.5% of your lab exercises grade**.
 
 In Moodle, download the file `functions-lab.xlsx` from **Lab 5: Excel Functions** under Week 5.
 
