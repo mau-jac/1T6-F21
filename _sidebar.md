@@ -3,6 +3,7 @@
 
 **Week 5**
 - [Excel Functions](wk5/excel_functions.md)
+- [Excel Charts](wk5/excel_chart.md)
 
 **Week 4**
 - [Footnotes & Bibliography](wk4/footnotes-bibliography.md)
