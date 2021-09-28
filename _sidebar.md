@@ -1,6 +1,9 @@
 **Home**
 - [About](/)
 
+**Week 6**
+- [Sorting Filtering & Formatting](wk6/sorting-filtering-formatting.md)
+
 **Week 5**
 - [Excel Functions](wk5/excel_functions.md)
 - [Excel Charts](wk5/excel_chart.md)
