@@ -43,8 +43,6 @@ To use a sort range select a range you want to sort.
 
 ## Exercises
 
-Exercise files are available in Moodle under week 6.
-
 ### Exercise 1
 
 Complete the challenge at the end of the[ guide **Sorting Data** ](https://edu.gcfglobal.org/en/excel/sorting-data/1/) with the modified step below:
