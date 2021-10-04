@@ -1,6 +1,9 @@
 **Home**
 - [About](/)
 
+**Week 7**
+- [Intro to Command Line](wk7/intro-command-line.md)
+
 **Week 6**
 - [Sorting Filtering & Formatting](wk6/sorting-filtering-formatting.md)
 
