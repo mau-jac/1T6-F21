@@ -2,6 +2,7 @@
 - [About](/)
 
 **Week 7**
+- [Scripting w/ PowerShell](wk7/pwsh_scripting.md)
 - [Intro to Command Line](wk7/intro-command-line.md)
 
 **Week 6**

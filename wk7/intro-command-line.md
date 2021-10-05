@@ -162,7 +162,7 @@ The output is organized in four columns. Looking at the first two:
 
 <br>
 
-#### Get-ChildItem
+#### Get-ChildItem (ls)
 
 As mentioned above, PowerShell always includes the current path in the prompt. To know the contents of the current directory you can use the cmdlet `Get-ChildItem`.
 
@@ -185,7 +185,7 @@ By default `Get-ChildItem` lists the mode (**Attributes**), **LastWriteTime**, f
 
 <br>
 
-#### Get-Help
+#### Get-Help (man)
 
 This command givers you access to the documentation (instructions manual) of other commands.
 
@@ -227,7 +227,7 @@ That is because we are specifying `Get-Command` as an argument to the `Get-Help`
 
 <br>
 
-#### Set-Location
+#### Set-Location (cd)
 
 Use the command `Set-Location` to move to a different directory in your file system. **This cmdlet takes one argument, which is the directory to move into**.
 
@@ -263,7 +263,7 @@ To move to anywhere else in the file system that is not immediately above or bel
 
 
 
-#### Move-Item
+#### Move-Item (mv)
 
 The cmdlet `Move-Item` can move files or folders in the file system.
 
@@ -286,7 +286,7 @@ Move-Item C:\Users\mauri\Downloads\Simple_Text.txt C:\Users\mauri\Downloads\Fold
 
 <br>
 
-#### Copy-Item
+#### Copy-Item (cp)
 
 `Copy-Item` can be used to copy an item and it works similarly to `Move-Item`
 
@@ -330,7 +330,7 @@ Get-Help Get-ChildItem -Online
 
 <br>
 
-#### Remove-Item
+#### Remove-Item (rm)
 
 The `Remove-Item` cmdlet deletes one or more items.
 
@@ -362,7 +362,7 @@ When entering a cmdlet or a file path, you can press the `Tab` key at any time t
 
 <br>
 
-### Clear Screen
+### Clear Screen (`ctrl` + `L`)
 
 To clear the current screen:
 
@@ -391,6 +391,8 @@ Below are a few aliases for common cmdlets:
 
 <br>
 
+#### Get-Alias
+
 To see a full list of all the aliases in PowerShell run the command `Get-Alias`
 
 If you would like to check which "verb-noun" command is invoked by an alias use `Get-Alias <alias>`.
@@ -409,7 +411,7 @@ For example, to see the aliases for the `Set-Location` command:
 
 <br>
 
-### File path in the command-line
+### Empty spaces in file paths
 
 When entering a file path that **contains spaces**, it is important to **add double or single quotes around the file path**.
 
