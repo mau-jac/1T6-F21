@@ -32,7 +32,9 @@ To create a script in VS Code:
 To run the script specify the file path to the file (relative or absolute):
 
 ```bash
-$ /my-script.sh
+$ ./my-script.sh
 ```
 
-Note that all the commands in the script will be executed from the directory location that called the script.
+**Notes**
+- All the commands in the script will be executed from the directory location that called the script.
+- The symbol `$` represents your prompt, do not type it with your command.
