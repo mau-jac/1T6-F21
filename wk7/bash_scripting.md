@@ -35,10 +35,10 @@ The first step is to make the bash script you created an "executable" file.
 
 This is a security feature so that random files are not executed with potentially malicious code.
 
-Simply run the command `chmod -x`  followed by your filename.
+Simply run the command `chmod +x`  followed by your filename.
 
 ```bash
-$ chmod -x my-script.sh
+$ chmod +x my-script.sh
 
 ```
 
