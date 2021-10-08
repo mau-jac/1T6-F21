@@ -5,7 +5,7 @@ A script is a simple text file that contains multiple shell commands that can be
 >
 > In **Bash**, a script has the following characteristics:
 > - The **file extension .sh**
-> - The first line must include `#!/usr/bin/env bash` (aka. shebang)
+> - The first line of your file must include `#!/usr/bin/env bash` (aka. shebang)
 
 
 The shebang is used to tell the operating system which type of shell must be used to interpret the commands.
