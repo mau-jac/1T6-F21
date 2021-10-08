@@ -2,7 +2,7 @@
 - [About](/)
 
 **Week 7**
-- [Bash Scription](wk7/bash_scripting.md)
+- [Scripting w/ Bash ](wk7/bash_scripting.md)
 - [Scripting w/ PowerShell](wk7/pwsh_scripting.md)
 - [Intro to Command Line](wk7/intro-command-line.md)
 
