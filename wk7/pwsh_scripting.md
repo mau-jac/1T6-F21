@@ -4,9 +4,7 @@ So far we have only used commands individually, one at a time. The power of a co
 
 > A script is a text file that contains multiple shell commands that can be executed sequentially.
 >
-> In <u>PowerShell specifically</u>, a script is a text file that ends with the **file extension .ps1**
-
-
+> In **PowerShell specifically**, a script is a simple`` text file that ends with the **file extension .ps1**
 
 To illustrate this, open Notepad and add the following:
 
@@ -19,15 +17,20 @@ When saving the file, choose any name but make sure to save it with the extensio
 *Note: make sure you have "File name extensions" enabled in File Explorer, otherwise you cannot modify the file extension and your final file name will be script_name.ps1.txt* 
 
 <br>
-
 Then open PowerShell and navigate to the directory where you saved your script. 
 
-To run the script use the `&` (the ["call" or "invocation" operator](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_operators?view=powershell-7#call-operator-)) followed by the file name.
+## Running Scripts
 
-You must specify the file path to the file (relative or absolute):
+To run the script specify the file path to the file (relative or absolute):
 
 ```powershell
-PS C:\Somewhere> & .\script_name.ps1
+PS C:\Somewhere> .\script_name.ps1
+```
+
+If the file path to the script contains an empty space, you must invoke it with the symbol  `&` (the ["call" or "invocation" operator](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_operators?view=powershell-7#call-operator-)) followed by the file name.
+ 
+```powershell
+PS C:\Somewhere> & '.\script with spaces.ps1'
 ```
 
 <br>
@@ -40,9 +43,9 @@ Microsoft has chosen to not let users run scripts by default because an un-infor
 
 <br>
 
-## PowerShell ISE
+## PowerShell ISE & Execution Policy
 
-To modify your execution policy and learn about the **PowerShell ISE** follow the link below:
+⚠ To modify your execution policy and learn about the **PowerShell ISE** follow the link below:
 
 > 📖 For this part of the notes, refer to:
 >
@@ -54,9 +57,9 @@ To modify your execution policy and learn about the **PowerShell ISE** follow th
 
 ## PowerShell Variables
 
-It is possible to use variables in PowerShell by using the "$" (dollar sign).
+It is possible to use variables in PowerShell by using the `$` (dollar sign).
 
-To assign a value to a variable, we use the “=” operator. To display the value of a variable, simply enter the variable.
+To assign a value to a variable, we use the `=` operator. To display the value of a variable, simply enter the variable.
 
 <br>
 
@@ -75,31 +78,6 @@ It is also possible to store strings inside variables by wrapping words in " " (
 Two or more string variables can be combined with the "+" operator.
 
 ![image-20200914095025589](assets/image-20200914095025589.png)
-
-<br>
-
-### User's home directory ~
-
-The home user directory is a very common location in the file system of an user.
-
-> The symbol **~** (tilda) is a special symbol to represent the user's home folder.
->
-> ~ means C:\Users\user_name
-
-A user  can use ~ anytime in the command like to **refer to the home directory as a file path**:
-
-```powershell
-PS C:\Windows\System32> cd ~
-PS C:\Users\mauri>
-```
-
-<br>
-
-Similarly, we moving the image "photo_1.png" to the user's "Pictures" folder, which is under the user's home directory:
-
-```powershell
-PS C:\Users\mauri\Downloads\Assign1\file_compression> mv .\photo_1.png ~\Pictures\
-```
 
 <br>
 
@@ -125,7 +103,7 @@ Open the [Tutorial's Point PowerShell page](https://www.tutorialspoint.com/power
 [File I/O Operations Examples](https://www.tutorialspoint.com/powershell/powershell_files_io.htm) (Sr.No.):
 
 - 1 - Create Text File
-- 5 - Create CSV File *(Try opening the you have created in Excel )*
+- 5 - Create CSV File *(Try opening the file you created in Excel )*
 - 9 - Erasing file content
 - 10 - Append Text Data
 

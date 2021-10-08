@@ -381,7 +381,7 @@ Below are a few aliases for common cmdlets:
 
 | PowerShell Command | Aliases      |
 | ------------------ | ------------ |
-| Get-Command        | gc           |
+| Get-Command        | gcm           |
 | Get-ChildItem      | gci, ls, dir |
 | Get-help           | help         |
 | Set-Location       | cd           |
@@ -538,6 +538,31 @@ In a similar way, we could moved all the `.txt` files to `Folder_1\Documents`:
 
 ```powershell
 Move-Item *.txt .\Documents
+```
+
+<br>
+
+### User's home directory ~
+
+The home user directory is a very common location in the file system of an user.
+
+> The symbol **~** (tilda) is a special symbol to represent the user's home folder.
+>
+> ~ means C:\Users\user_name
+
+A user  can use ~ anytime in the command like to **refer to the home directory as a file path**:
+
+```powershell
+PS C:\Windows\System32> cd ~
+PS C:\Users\mauri>
+```
+
+<br>
+
+Similarly, we moving the image "photo_1.png" to the user's "Pictures" folder, which is under the user's home directory:
+
+```powershell
+PS C:\Users\mauri\Downloads\Assign1\file_compression> mv .\photo_1.png ~\Pictures\
 ```
 
 <br>
