@@ -1,6 +1,9 @@
 **Home**
 - [About](/)
 
+**Week 8**
+- [Abstractions & Help](wk8/asking_help.md)
+
 **Week 7**
 - [Scripting w/ Bash ](wk7/bash_scripting.md)
 - [Scripting w/ PowerShell](wk7/pwsh_scripting.md)
