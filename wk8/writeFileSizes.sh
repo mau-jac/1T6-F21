@@ -12,7 +12,7 @@ for file in *
 do
 	# Append to file specified in second argument
 	# file size, "comma", file name, line break
-	stat --printf="%s,%n\n" "$file" >> "$2"
+	stat -c "%s,%n" "$file" >> "$2"
 done
 
 # go back to initial directory
