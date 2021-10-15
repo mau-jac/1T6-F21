@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/usr/bin/env bash
 
 # Print the size and name of all files inside the specified directory to a specified file inside the same directory
 

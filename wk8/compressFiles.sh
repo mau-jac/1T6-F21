@@ -1,4 +1,4 @@
-#/usr/bin/bash
+#!/usr/bin/env bash
 
 # Store current path in a variable
 CURRENT_PATH=$pwd
