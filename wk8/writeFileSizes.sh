@@ -12,7 +12,13 @@ for file in *
 do
 	# Append to file specified in second argument
 	# file size, "comma", file name, line break
-	stat -c "%s,%n" "$file" >> "$2"
+	
+	if [[ "$OSTYPE" == "darwin"* ]]; then
+		stat -f "%z,%N" "$file" >> "$2"
+	else
+		stat -c "%s,%n" "$file" >> "$2"
+	fi
+
 done
 
 # go back to initial directory
