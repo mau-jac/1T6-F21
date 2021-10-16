@@ -24,8 +24,17 @@ To create a script in VS Code:
 3. Once that folder is created, select the symbol for creating a new file
 4. Name your file with the extension you need
 	- Ex. *my-script.sh*
+	- **Don't  forget to give it the .sh extension.**
 
 ![](assets/create-new-file-vscode.png)
+
+After you've created your script file, add the shebang in the first line:
+
+```
+#!/usr/bin/env bash
+```
+
+To learn more about the shebang `!#`, check [this link](https://scriptingosx.com/2017/10/on-the-shebang/).
 
 ## Running Scripts
 
