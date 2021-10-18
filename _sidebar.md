@@ -1,6 +1,9 @@
 **Home**
 - [About](/)
 
+**Week 9**
+- [Internet Protocols](wk9/internet_protocols.md)
+
 **Week 8**
 - [Abstractions & Help](wk8/asking_help.md)
 - [CLI Reference Sheet](https://docs.google.com/document/d/1pnQ7B7QLYuUfqYSDQ34s5BnwJm47yMY829Z7SyEgLIA/edit)
