@@ -234,13 +234,13 @@ Other parts give you information about the **host id** (the specific node)
 The first 1 to 2 bytes of an IP address typically gives you information about it's  "Class". You can think of it as an area code.
 
 
-| **Class**  | **Address Range** | **Example IP** | **Max number of networks** | **Application**                                               |
+| **IP Class**  | **Address Range** | **Example IP** | **Max number of networks** | **Application**                                               |
 | ---------- | ----------------- | -------------- | -------------------------- | ------------------------------------------------------------- |
-| IP Class A | 1 to 126          | 1.1.1.1        | 128                        | Used for large number of hosts.                               |
-| IP Class B | 128 to 191        | 128.1.1.1      | 16384                      | Used for medium size network.                                 |
-| IP Class C | 192 to 223        | 192.1.11.      | 2097157                    | Used for local area network.                                  |
-| IP Class D | 224 to 239        | NA             | NA                         | Reserve for multi-tasking.                                    |
-| IP Class E | 240 to 254        | NA             | NA                         | This class is reserved for research and Development Purposes. |
+| A | 1 to 126          | 1.1.1.1        | 128                        | Used for large number of hosts.                               |
+| B | 128 to 191        | 128.1.1.1      | 16384                      | Used for medium size network.                                 |
+| C | 192 to 223        | 192.1.11.      | 2097157                    | Used for local area network.                                  |
+| D | 224 to 239        | NA             | NA                         | Reserve for multi-tasking.                                    |
+| E | 240 to 254        | NA             | NA                         | This class is reserved for research and Development Purposes. |
 
 
 #### IPv4
