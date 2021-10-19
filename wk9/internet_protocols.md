@@ -207,7 +207,7 @@ Packet Structure:
 
 The two most common internet protocols used by software to accomplish packet switching are TCP and IP.
 
-> TCP and IP are used as a stack, in other words, TCP is build on top of IP and depends on it to work.
+> TCP and IP are used as a stack, in other words, a TCP "capsule" is wrapped inside an IP packet.
 >
 > This stack is commonly referred as **TCP/IP**
 
@@ -224,10 +224,24 @@ IP addresses are like phone number
 | -------------- | ------------- |
 | 514 457 6610   | 144.92.43.178 |
 | 1 800 959 8281 | 10.32.72.190  |
-  
+
 Certain parts of the IP give you information about **the network**.
 
 Other parts give you information about the **host id** (the specific node)
+
+#### IP Classes
+
+The first 1 to 2 bytes of an IP address typically gives you information about it's  "Class". You can think of it as an area code.
+
+
+| **Class**  | **Address Range** | **Example IP** | **Max number of networks** | **Application**                                               |
+| ---------- | ----------------- | -------------- | -------------------------- | ------------------------------------------------------------- |
+| IP Class A | 1 to 126          | 1.1.1.1        | 128                        | Used for large number of hosts.                               |
+| IP Class B | 128 to 191        | 128.1.1.1      | 16384                      | Used for medium size network.                                 |
+| IP Class C | 192 to 223        | 192.1.11.      | 2097157                    | Used for local area network.                                  |
+| IP Class D | 224 to 239        | NA             | NA                         | Reserve for multi-tasking.                                    |
+| IP Class E | 240 to 254        | NA             | NA                         | This class is reserved for research and Development Purposes. |
+
 
 #### IPv4
 

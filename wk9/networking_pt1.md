@@ -33,9 +33,9 @@ After all, the internet is a network of networks:
 
 <br>
 
-![Global fiber-optic internet cables map - Business Insider](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Famp.businessinsider.com%2Fimages%2F55de2216ecad04680548cb4b-640-320.jpg&f=1&nofb=1)
+![](assets/Pasted%20image%2020211019101854.png)
 
-<p align="center"><a href="https://www.businessinsider.com/animated-map-global-fiber-optic-internet-cables-2015-9"><em>Internet fiber optic cables connecting Europe to Africa, North America and Middle East</em></a></p>
+<p align="center"><a href="https://www.businessinsider.com/animated-map-global-fiber-optic-internet-cables-2015-9"><em>Internet fiber optic cables connecting North America and Europe</em></a></p>
 
 <br>
 
@@ -54,6 +54,37 @@ Examples of networking devices are:
 
 <br>
 
+### NIC
+
+The final piece of hardware that is required to allow a computer to be part of the network is the **network interface controller (NIC) also known as the network adapter**.
+
+> This is the physical device that literally connects the computer to the physical media.
+
+In the case of the LAN it would connect the computer to a twisted pair cable (Ethernet cable) or Wifi signal.
+
+![img](https://lh5.googleusercontent.com/5evKrd__G2GV805MAmFLewHidxzfXd1mBvSx40yir4SHESPeCYb7I1k0kKEtybIGd_N4Re9IsvAgfja2SaNcqNZcW_W-xlscDmdnxXZBDf-AEWMVgPwOOpsiVWp6ZEGvx5ruFY5Kes4 ':size=400')
+
+<p align="center"><a href=""><em>Ethernet NIC with PCIe attachment</em></a></p>
+
+<br>
+
+![Wireless NIC](https://lh3.googleusercontent.com/1i9vKYuuyY2prRjSdHBBOr30EeK9g8R6xtyepJBb5Pk7AmGDNja9GPzHrF9xyaPtUxfZs5_nEwMfFsu7MFP6kxdl5qRtCajol_sNjCgn3ZZDKL_SFv_XdcwaleWcMm2XIxvpIq2K0JY ':size=400')
+
+<p align="center"><a href=""><em>Wireless NIC module typically found in laptops</em></a></p>
+
+<br>
+
+The **MAC address or physical address** is controlled by the NIC. This is typically an address assigned by the manufacturer of the NIC.
+
+MAC stands for **Media Access Code** and has the following format (in hexadecimal values): **DC-4A-3E-4A-3B-3D**
+
+<br>
+
+A NIC is required for Ethernet or Wireless connections. For wireless its also called WNIC (W for wireless).
+
+Nowadays it's typically part of the motherboard.
+
+<br>
 
 ### Switch
 
@@ -141,37 +172,7 @@ We'll take a quick look at the following connection services:
 
 
 
-## NIC
 
-The final piece of hardware that is required to allow a computer to be part of the network is the **network interface controller (NIC) also known as the network adapter**.
-
-> This is the physical device that literally connects the computer to the physical media.
-
-In the case of the LAN it would connect the computer to a twisted pair cable (Ethernet cable) or Wifi signal.
-
-![img](https://lh5.googleusercontent.com/5evKrd__G2GV805MAmFLewHidxzfXd1mBvSx40yir4SHESPeCYb7I1k0kKEtybIGd_N4Re9IsvAgfja2SaNcqNZcW_W-xlscDmdnxXZBDf-AEWMVgPwOOpsiVWp6ZEGvx5ruFY5Kes4 ':size=400')
-
-<p align="center"><a href=""><em>Ethernet NIC with PCIe attachment</em></a></p>
-
-<br>
-
-![Wireless NIC](https://lh3.googleusercontent.com/1i9vKYuuyY2prRjSdHBBOr30EeK9g8R6xtyepJBb5Pk7AmGDNja9GPzHrF9xyaPtUxfZs5_nEwMfFsu7MFP6kxdl5qRtCajol_sNjCgn3ZZDKL_SFv_XdcwaleWcMm2XIxvpIq2K0JY ':size=400')
-
-<p align="center"><a href=""><em>Wireless NIC module typically found in laptops</em></a></p>
-
-<br>
-
-The **MAC address or physical address** is controlled by the NIC. This is typically an address assigned by the manufacturer of the NIC.
-
-MAC stands for **Media Access Code** and has the following format (in hexadecimal values): **DC-4A-3E-4A-3B-3D**
-
-<br>
-
-A NIC is required for Ethernet or Wireless connections. For wireless its also called WNIC (W for wireless).
-
-Nowadays it's typically part of the motherboard.
-
-<br>
 
 ## Recommended Video
 
