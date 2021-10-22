@@ -4,6 +4,7 @@
 **Week 9**
 - [Internet Protocols](wk9/internet_protocols.md)
 - [Networking](wk9/networking_pt1.md)
+- [Internet networking](wk9/reaching_internet.md)
 
 **Week 8**
 - [Abstractions & Help](wk8/asking_help.md)

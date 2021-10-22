@@ -17,7 +17,7 @@ We will cover these topics by understanding what is required for a web browser t
 
 > 📖 For this section, please refer to the following slides:
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR2j8kZjWFj0CRjTc_fQeyXOWXf_cMEyxFS57LU_Dn4rX1Fl-MCowktukrLeh7u5mfoiupePWZ8OaJ5/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTQJHP7Jg8p6jq59HT-_GXW-huJMt1GMzpwhxudUISDYipbpZ3eV5tWyPIXfOrFzAFxjzWjlBOGdaO_/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <br>
 
