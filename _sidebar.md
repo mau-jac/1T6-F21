@@ -1,6 +1,9 @@
 **Home**
 - [About](/)
 
+**Week 10**
+- [Cloud Computing](wk10/cloud_computing.md)
+
 **Week 9**
 - [Internet Protocols](wk9/internet_protocols.md)
 - [Networking](wk9/networking_pt1.md)
