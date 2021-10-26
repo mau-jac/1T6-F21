@@ -4,12 +4,41 @@ Now that we have an understanding of all the physical hardware required for a ne
 
 We will briefly look at the following concepts:
 
-- Internet Protocol (IP address)
 - DHCP Servers
 - Public vs Private IP addresses
 - DNS (Domain name system)
 
 <br>
+
+## DHCP Server
+
+A DHCP server (Dynamic Host Configuration Protocol) is responsible for managing the distribution of IP addresses in a network.
+
+The IPs of a network can be assigned in two different ways: **Static IP** 
+
+
+Static IP Address Assignment
+
+-   IP address never changes.
+    
+-   Assigned by network administrator or ISP.
+    
+
+  
+
+Dynamic IP Address Assignment
+
+-   IP address is temporary.
+    
+-   Assigned from pool of available addresses. 
+    
+
+-   Reduces time and planning for IP address management.
+    
+-   Reduce potential for conflict in assigning IP addresses.
+
+All network have a DHCP server
+
 
 We will cover these topics by understanding what is required for a web browser to successfully request a website from a web server.
 

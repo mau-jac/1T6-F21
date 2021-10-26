@@ -3,6 +3,7 @@
 
 **Week 10**
 - [Cloud Computing](wk10/cloud_computing.md)
+- [Intro to Encryption](wk10/intro_encryption.md)
 
 **Week 9**
 - [Internet Protocols](wk9/internet_protocols.md)
