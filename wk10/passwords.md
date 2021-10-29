@@ -269,6 +269,3 @@ If you are curious about why SMS tokens are not considered secure, take a look a
 - [This is why you shouldn’t use texts for two-factor authentication](https://www.theverge.com/2017/9/18/16328172/sms-two-factor-authentication-hack-password-bitcoin), theverge.com
 - [6 Ways Attackers Are Still Bypassing SMS 2-Factor Authentication](https://www.securityweek.com/6-ways-attackers-are-still-bypassing-sms-2-factor-authentication), securityweek.com
 - [SMS-based two-factor authentication is not safe](https://www.kaspersky.com/blog/2fa-practical-guide/24219/), kaspersky.com
-
-<br>
-
