@@ -60,7 +60,8 @@ For example, the image below is 640 x 480 pixels.
 ![https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Passiflora_edulis_forma_flavicarpa.jpg/640px-Passiflora_edulis_forma_flavicarpa.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Passiflora_edulis_forma_flavicarpa.jpg/640px-Passiflora_edulis_forma_flavicarpa.jpg)
 
 <p align="center">
-	<a href="https://en.wikipedia.org/wiki/Retina_display"><em>Passion fruit flower of size 640x480 logical pixels.</em></a>
+	<a href="https://en.wikipedia.org/wiki/Retina_display"><em>Passion fruit flower of size 640x480 logical pixels.</em>
+	</a>
 </p>
 
 <br>

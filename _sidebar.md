@@ -10,7 +10,7 @@
 
 **Week 11**
 - [Digital Images](wk11/images_resolution.md)
-<!-- - [Image Compression](wk11/image_compression.md) -->
+- [Image Compression](wk11/image_compression.md)
 <!-- - [Diagramming Tools](wk11/diagramming_software.md) -->
 
 **Week 10**
