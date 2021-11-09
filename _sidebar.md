@@ -4,14 +4,14 @@
 <!-- **Week 13**
 - [Feedback in Teams](wk13/feedback.md) -->
 
-<!-- **Week 12**
-- [Flowcharts](wk12/flowcharts.md)
-- [Architecture Diagrams](wk12/deployment_diagrams.md) -->
+**Week 12**
+- [Diagramming Tools](wk12/diagramming_software.md)
+<!-- - [Flowcharts](wk12/flowcharts.md) -->
+<!-- - [Architecture Diagrams](wk12/deployment_diagrams.md) -->
 
 **Week 11**
 - [Digital Images](wk11/images_resolution.md)
 - [Image Compression](wk11/image_compression.md)
-<!-- - [Diagramming Tools](wk11/diagramming_software.md) -->
 
 **Week 10**
 - [Cloud Computing](wk10/cloud_computing.md)
