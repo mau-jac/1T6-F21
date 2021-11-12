@@ -6,8 +6,8 @@
 
 **Week 12**
 - [Diagramming Tools](wk12/diagramming_software.md)
-<!-- - [Flowcharts](wk12/flowcharts.md) -->
-<!-- - [Architecture Diagrams](wk12/deployment_diagrams.md) -->
+- [Flowcharts](wk12/flowcharts.md)
+- [Architecture Diagrams](wk12/deployment_diagrams.md)
 
 **Week 11**
 - [Digital Images](wk11/images_resolution.md)
