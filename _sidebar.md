@@ -4,6 +4,9 @@
 <!-- **Week 13**
 - [Feedback in Teams](wk13/feedback.md) -->
 
+**Week 13**
+- [Beginning Trends](wk13/beginning_trends.md)
+
 **Week 12**
 - [Diagramming Tools](wk12/diagramming_software.md)
 - [Flowcharts](wk12/flowcharts.md)

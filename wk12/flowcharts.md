@@ -156,11 +156,11 @@ Start by identifying your actors and the actions.
 <details>
 	<summary>Solution</summary>
 	<ul>
-		<li>
+		<!-- <li>
 			Coming soon 🙂
-		</li>
+		</li> -->
 		<li>
-			<!-- <img src="/wk12/assets/Wk12-ActivityDiagram-solution.png" alt="solution to chapter exercise"/> -->
+			<img src="/wk12/assets/car-return-v2.png" alt="solution to chapter exercise"/>
 		</li>
 	</ul>
 </details>
