@@ -6,6 +6,7 @@
 
 **Week 13**
 - [Beginning Trends](wk13/beginning_trends.md)
+- [IT Jobs](wk13/jobs.md)
 
 **Week 12**
 - [Diagramming Tools](wk12/diagramming_software.md)
