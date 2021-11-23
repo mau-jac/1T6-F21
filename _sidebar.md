@@ -1,8 +1,8 @@
 **Home**
 - [About](/)
 
-<!-- **Week 13**
-- [Feedback in Teams](wk13/feedback.md) -->
+**Week 14**
+- [Feedback in Teams](wk14/feedback.md)
 
 **Week 13**
 - [Beginning Trends](wk13/beginning_trends.md)
