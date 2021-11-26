@@ -183,7 +183,7 @@ There is a backup MySQL database also running on a Linux VM, which is deployed o
     <summary>Solution</summary>
     <ul>
         <li>
-            <img src="../wk12/Kassets/wk12_exercise_deployment.png" alt="solution to chapter exercise"/>
+            <img src="/wk12/Kassets/wk12_exercise_deployment.png" alt="solution to chapter exercise"/>
         </li>
     </ul>
 </details>
