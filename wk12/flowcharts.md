@@ -153,15 +153,5 @@ Start by identifying your actors and the actions.
 
 <br>
 
-<details>
-	<summary>Solution</summary>
-	<ul>
-		<!-- <li>
-			Coming soon 🙂
-		</li> -->
-		<li>
-			<img src="./wk12/assets/car-return-v2.png" alt="solution to chapter exercise"/>
-		</li>
-	</ul>
-</details>
-
+**Solution**
+![Solution to the chapter exercise](assets/wk12_exercise_deployment.png)
