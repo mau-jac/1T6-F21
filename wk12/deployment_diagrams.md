@@ -179,12 +179,7 @@ There is a backup MySQL database also running on a Linux VM, which is deployed o
 
 <br>
 
-<details>
-    <summary>Solution</summary>
-    <ul>
-        <li>
-            <img src="./1T6-F21/wk12/assets/wk12_exercise_deployment.png" alt="solution to chapter exercise"/>
-        </li>
-    </ul>
-</details>
+**Solution**
+
+![Solution to chapter exercise](assets/wk12_exercise_deployment.png)
 
