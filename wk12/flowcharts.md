@@ -160,7 +160,7 @@ Start by identifying your actors and the actions.
 			Coming soon 🙂
 		</li> -->
 		<li>
-			<img src="/wk12/assets/car-return-v2.png" alt="solution to chapter exercise"/>
+			<img src="../wk12/assets/car-return-v2.png" alt="solution to chapter exercise"/>
 		</li>
 	</ul>
 </details>
