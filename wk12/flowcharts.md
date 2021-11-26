@@ -154,4 +154,4 @@ Start by identifying your actors and the actions.
 <br>
 
 **Solution**
-![Solution to the chapter exercise](assets/wk12_exercise_deployment.png)
+![Solution to the chapter exercise](assets/wk12_exercise_swimlane.png)
