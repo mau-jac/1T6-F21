@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 # Script receives one argument with a folder location and extracts all .zip files
 # inside that folder in a recursive manner.
 
