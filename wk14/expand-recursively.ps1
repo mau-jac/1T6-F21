@@ -11,6 +11,12 @@ echo $message
 $baseFolder = $args[0]
 echo "Received argument: $basefolder"
 
+# Exit if no argument was passed.
+if($baseFolder -eq $null) {
+    echo "No argument passed. Exiting."
+    Break
+}
+
 # Get all .zip files inside a folder (recursively) and pass them to the forEach loop
 Get-ChildItem $baseFolder -Filter *.zip -Recurse |
 ForEach-Object {

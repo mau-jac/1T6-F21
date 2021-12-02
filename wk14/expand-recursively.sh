@@ -11,6 +11,12 @@ echo $message
 base_folder=$1
 echo "Received argument: $base_folder"
 
+# Exit if number of arguments is zero (no arguments passed)
+if [[ $# -eq 0 ]] ; then
+    echo 'No argument provided. Exiting.'
+    exit 1
+fi
+
 # Find all .zip files inside a folder (recursively) and pass them to a while loop
 find $base_folder -name "*.zip" |
 while read file; do
