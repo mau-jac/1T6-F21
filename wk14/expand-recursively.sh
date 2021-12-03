@@ -20,7 +20,7 @@ if [[ $# -eq 0 ]] ; then
 fi
 
 # Find all .zip files inside a folder (recursively) and pass them to a while loop
-find $base_folder -name "*.zip" |
+find "$base_folder" -name "*.zip" |
 while read file; do
 
     # One by one, the while loop iterates throught all files passed to it.
